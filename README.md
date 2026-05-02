@@ -56,14 +56,6 @@ graph TD
 
 ---
 
-## Hardware Requirements
-
-- MacBook Air M2 (or equivalent), **8GB RAM**
-- ~3GB free disk space
-- No Docker, no paid APIs — 100% local
-
----
-
 ## Quick Start
 
 ### 1. Clone and set up environment
@@ -79,8 +71,7 @@ pip install -r requirements.txt
 ### 2. Configure environment
 
 ```bash
-cp .env.example .env
-# Edit .env — at minimum, no changes needed to run locally
+
 # Optionally add LANGSMITH_API_KEY and SLACK_WEBHOOK_URL
 ```
 
