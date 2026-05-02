@@ -366,4 +366,4 @@ FASTAPI_PORT=8001 uvicorn api.server:app --port 8001
 
 ## License
 
-MIT License — built as a portfolio project demonstrating production-grade AI agent architecture.
+MIT License —demonstrating production-grade AI agent architecture.
