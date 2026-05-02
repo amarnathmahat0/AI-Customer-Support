@@ -1,0 +1,47 @@
+# Core LLM & Agent Framework
+langchain>=0.2.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+langgraph-checkpoint-sqlite>=3.0.3
+langsmith>=0.1.0
+
+# Ollama integration
+langchain-ollama>=0.1.0
+ollama>=0.2.0
+
+# Memory
+mem0ai>=0.0.20
+
+# Vector DB
+chromadb>=0.5.0
+
+# FastAPI backend
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+websockets>=12.0
+python-multipart>=0.0.9
+
+# Streamlit frontend
+streamlit>=1.35.0
+
+# Guardrails
+guardrails-ai>=0.5.0
+
+# MCP
+mcp>=1.0.0
+
+# Utilities
+tenacity>=8.3.0
+python-dotenv>=1.0.0
+httpx>=0.27.0
+aiohttp>=3.9.0
+aiosqlite>=0.20.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+
+# Data
+sqlite-utils>=3.36
+
+# Logging & Observability
+structlog>=24.1.0
+rich>=13.7.0

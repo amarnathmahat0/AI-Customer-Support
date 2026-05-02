@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local database files
+chroma_db/
+mem0_db/
+orders.db
+*.sqlite3
+
+# Logs and runtime files
+*.log
+mcp_server.log
+
+# Editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated files
+all_code.txt

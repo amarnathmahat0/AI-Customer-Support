@@ -1,0 +1,212 @@
+[
+  {
+    "id": "faq_001",
+    "category": "orders",
+    "question": "How do I track my order?",
+    "answer": "You can track your order by logging into your account and visiting the 'My Orders' section. Enter your order ID (format: ORD-XXXXXX) to get real-time status updates including estimated delivery date.",
+    "tags": ["tracking", "order", "delivery"]
+  },
+  {
+    "id": "faq_002",
+    "category": "orders",
+    "question": "Can I cancel or modify my order?",
+    "answer": "Orders can be cancelled or modified within 1 hour of placement. After that, the order enters fulfillment and cannot be changed. Contact our support team immediately if you need to make changes.",
+    "tags": ["cancel", "modify", "order"]
+  },
+  {
+    "id": "faq_003",
+    "category": "orders",
+    "question": "What happens if my order is delayed?",
+    "answer": "If your order is delayed beyond the estimated delivery date, you will receive an automated email notification. You can also check the status in 'My Orders'. For delays exceeding 5 business days, you are eligible for a shipping fee refund.",
+    "tags": ["delay", "late", "shipping", "order"]
+  },
+  {
+    "id": "faq_004",
+    "category": "orders",
+    "question": "How do I place a bulk or business order?",
+    "answer": "For bulk orders (10+ units) or business accounts, please contact our B2B team at business@support.com. We offer volume discounts, dedicated account managers, and NET-30 payment terms for qualifying businesses.",
+    "tags": ["bulk", "business", "wholesale"]
+  },
+  {
+    "id": "faq_005",
+    "category": "orders",
+    "question": "What is the minimum order value for free shipping?",
+    "answer": "Free standard shipping is available on all orders over $50. Orders below $50 incur a flat $5.99 shipping fee. Express and overnight shipping are available at additional cost regardless of order value.",
+    "tags": ["shipping", "free shipping", "minimum order"]
+  },
+  {
+    "id": "faq_006",
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day hassle-free return policy for all products in original condition. Items must be unused, in original packaging, and accompanied by the original receipt. Digital products and personalized items are non-refundable.",
+    "tags": ["return", "refund", "policy"]
+  },
+  {
+    "id": "faq_007",
+    "category": "returns",
+    "question": "How do I initiate a return?",
+    "answer": "To start a return: 1) Log into your account, 2) Go to 'My Orders', 3) Select the order, 4) Click 'Return Item', 5) Choose your reason and preferred refund method. You will receive a prepaid return label via email within 24 hours.",
+    "tags": ["return", "initiate", "process"]
+  },
+  {
+    "id": "faq_008",
+    "category": "returns",
+    "question": "How long does a refund take?",
+    "answer": "Once we receive and inspect your return (2-3 business days), refunds are processed within 3-5 business days. Credit card refunds may take an additional 3-7 business days to appear on your statement depending on your bank.",
+    "tags": ["refund", "timeline", "processing"]
+  },
+  {
+    "id": "faq_009",
+    "category": "returns",
+    "question": "Can I exchange an item instead of returning it?",
+    "answer": "Yes! We offer direct exchanges for different sizes, colors, or variants. Go to 'My Orders' and select 'Exchange' instead of 'Return'. Exchanges are processed faster than refunds and ship within 1-2 business days.",
+    "tags": ["exchange", "swap", "replacement"]
+  },
+  {
+    "id": "faq_010",
+    "category": "returns",
+    "question": "What if I received a damaged or defective item?",
+    "answer": "We sincerely apologize for damaged or defective items. Please take photos and contact support within 48 hours of delivery. We will immediately ship a replacement at no cost and arrange free return pickup — no need to print a label.",
+    "tags": ["damaged", "defective", "broken", "replacement"]
+  },
+  {
+    "id": "faq_011",
+    "category": "account",
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page and enter your email address. You will receive a password reset link within 5 minutes. The link expires after 24 hours. Check your spam folder if you don't see it in your inbox.",
+    "tags": ["password", "reset", "login", "account"]
+  },
+  {
+    "id": "faq_012",
+    "category": "account",
+    "question": "How do I update my payment method?",
+    "answer": "Go to Account Settings > Payment Methods to add, remove, or update credit cards and payment options. Changes take effect immediately for future orders. Existing pending orders will still use the original payment method.",
+    "tags": ["payment", "credit card", "billing"]
+  },
+  {
+    "id": "faq_013",
+    "category": "account",
+    "question": "How do I update my shipping address?",
+    "answer": "You can manage saved addresses in Account Settings > Addresses. To change an address on a pending order, contact support immediately as we can only update addresses before the order is processed for fulfillment.",
+    "tags": ["address", "shipping", "update"]
+  },
+  {
+    "id": "faq_014",
+    "category": "account",
+    "question": "Can I have multiple accounts?",
+    "answer": "Each email address can only be associated with one account. Having multiple accounts to abuse promotions violates our Terms of Service. If you need a business account in addition to a personal account, contact our B2B team.",
+    "tags": ["multiple accounts", "terms", "account"]
+  },
+  {
+    "id": "faq_015",
+    "category": "account",
+    "question": "How do I delete my account?",
+    "answer": "To delete your account, go to Account Settings > Privacy > Delete Account. This action is irreversible and will remove all order history, saved addresses, and loyalty points. A deletion confirmation email will be sent to verify your request.",
+    "tags": ["delete account", "privacy", "close account"]
+  },
+  {
+    "id": "faq_016",
+    "category": "payments",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and Shop Pay. We also offer Buy Now Pay Later through Klarna and Afterpay. All transactions are encrypted with SSL/TLS.",
+    "tags": ["payment methods", "credit card", "PayPal"]
+  },
+  {
+    "id": "faq_017",
+    "category": "payments",
+    "question": "Is my payment information secure?",
+    "answer": "Yes, we are PCI-DSS Level 1 compliant — the highest level of payment security. We never store full card numbers on our servers. All payment processing is handled by Stripe, a globally trusted payment processor.",
+    "tags": ["security", "payment", "PCI", "safe"]
+  },
+  {
+    "id": "faq_018",
+    "category": "payments",
+    "question": "Why was my payment declined?",
+    "answer": "Payments may be declined due to: insufficient funds, incorrect card details, bank fraud prevention, or expired card. Try a different payment method or contact your bank. If the issue persists, our support team can help troubleshoot.",
+    "tags": ["declined", "payment failed", "card error"]
+  },
+  {
+    "id": "faq_019",
+    "category": "payments",
+    "question": "Do you offer installment payments?",
+    "answer": "Yes! For orders over $100, you can split payments into 4 interest-free installments through Klarna or Afterpay. Select your preferred BNPL option at checkout. Approval depends on the provider's eligibility criteria.",
+    "tags": ["installments", "BNPL", "Klarna", "Afterpay"]
+  },
+  {
+    "id": "faq_020",
+    "category": "payments",
+    "question": "How do I apply a promo code or coupon?",
+    "answer": "Enter your promo code in the 'Coupon Code' field during checkout and click 'Apply'. Only one code can be used per order. Codes are case-insensitive and cannot be combined with other active promotions unless specified.",
+    "tags": ["promo code", "coupon", "discount"]
+  },
+  {
+    "id": "faq_021",
+    "category": "shipping",
+    "question": "What shipping options are available?",
+    "answer": "We offer: Standard Shipping (5-7 business days, free over $50), Express Shipping (2-3 business days, $12.99), and Overnight Shipping (next business day, $24.99). Same-day delivery is available in select metro areas.",
+    "tags": ["shipping options", "delivery", "express"]
+  },
+  {
+    "id": "faq_022",
+    "category": "shipping",
+    "question": "Do you ship internationally?",
+    "answer": "We currently ship to 45 countries. International shipping rates and delivery times vary by destination. Import duties and taxes are the customer's responsibility. Estimated customs fees are shown at checkout for transparency.",
+    "tags": ["international", "shipping", "global", "countries"]
+  },
+  {
+    "id": "faq_023",
+    "category": "shipping",
+    "question": "What do I do if my package is lost?",
+    "answer": "If your package shows as delivered but you haven't received it, wait 24 hours (packages are sometimes pre-scanned). If still missing, check with neighbors and your building's mail area. Then contact us and we will file a carrier claim and send a replacement.",
+    "tags": ["lost package", "missing", "not received"]
+  },
+  {
+    "id": "faq_024",
+    "category": "shipping",
+    "question": "Can I change my shipping address after ordering?",
+    "answer": "Shipping addresses can only be changed within 30 minutes of order placement. After that, the order is sent to our warehouse system. Contact support immediately and we will attempt to intercept — though this is not guaranteed.",
+    "tags": ["change address", "shipping", "update order"]
+  },
+  {
+    "id": "faq_025",
+    "category": "shipping",
+    "question": "Why hasn't my order shipped yet?",
+    "answer": "Most orders ship within 1-2 business days. Delays can occur during high-demand periods (holidays, sales). Check your email for a shipping confirmation. If it has been more than 3 business days without shipping, contact our support team.",
+    "tags": ["not shipped", "processing", "delay", "fulfillment"]
+  },
+  {
+    "id": "faq_026",
+    "category": "products",
+    "question": "How do I know which size to order?",
+    "answer": "Each product page has a detailed size guide with measurements in both inches and centimeters. For apparel, we recommend measuring yourself and comparing to our size chart rather than ordering your usual size, as sizing varies by brand.",
+    "tags": ["size", "sizing guide", "measurements"]
+  },
+  {
+    "id": "faq_027",
+    "category": "products",
+    "question": "Are your products authentic and genuine?",
+    "answer": "100% yes. We source directly from manufacturers and authorized distributors. All products come with authenticity certificates where applicable. We have a zero-tolerance policy for counterfeit goods and are an authorized seller for all brands we carry.",
+    "tags": ["authentic", "genuine", "counterfeit", "real"]
+  },
+  {
+    "id": "faq_028",
+    "category": "products",
+    "question": "What is your warranty policy?",
+    "answer": "Product warranties vary by manufacturer — typically 1-2 years for electronics and 6 months for accessories. Warranty claims should be filed directly with the manufacturer. We can assist with facilitating warranty claims for purchases made in the last 12 months.",
+    "tags": ["warranty", "guarantee", "defective"]
+  },
+  {
+    "id": "faq_029",
+    "category": "products",
+    "question": "Can I request a product that is out of stock?",
+    "answer": "Yes! Click 'Notify Me' on any out-of-stock product to be alerted via email when it's back. For high-priority requests, contact our team — we may be able to source the product directly or suggest an equivalent alternative.",
+    "tags": ["out of stock", "availability", "restock"]
+  },
+  {
+    "id": "faq_030",
+    "category": "products",
+    "question": "Do your products come with instructions or manuals?",
+    "answer": "Physical manuals are included where required by safety regulations. For most products, digital manuals are available on the product page under 'Downloads'. Contact support if you need a manual for an older purchase — we archive them for 5 years.",
+    "tags": ["manual", "instructions", "guide", "documentation"]
+  }
+]
